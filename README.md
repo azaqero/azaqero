@@ -2,9 +2,9 @@
 
 **Senior backend engineer** — APIs, queued processing, infrastructure.
 
-18 years building and operating systems other people depend on: lead engines that
-fan out to dozens of buyer APIs, SaaS platforms, telephony integrations, management
-systems.
+Since 2008, building and operating systems other people depend on: lead engines
+that fan out to dozens of buyer APIs, SaaS platforms, telephony integrations,
+management systems.
 
 **Available full-time, 100% remote** (Lambayeque, Peru · GMT-5).
 
